@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestHTTP", "BestHTTP.csproj", "{A553D4D7-218C-7622-B325-1C17E5380CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolbengFramework", "GolbengFramework.csproj", "{70348063-414C-A05F-65FD-2589C068F075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A553D4D7-218C-7622-B325-1C17E5380CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A553D4D7-218C-7622-B325-1C17E5380CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A553D4D7-218C-7622-B325-1C17E5380CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A553D4D7-218C-7622-B325-1C17E5380CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70348063-414C-A05F-65FD-2589C068F075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70348063-414C-A05F-65FD-2589C068F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70348063-414C-A05F-65FD-2589C068F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70348063-414C-A05F-65FD-2589C068F075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
